@@ -1,0 +1,14 @@
+{
+  "itemGroup.christmas_decorations.christmas_decorations": "Christmas Decorations",
+  "item.christmas_decorations.small_gift": "Small Gift",
+  "item.christmas_decorations.tall_gift": "Tall Gift",
+  "item.christmas_decorations.big_gift": "Big Gift",
+  "item.christmas_decorations.garlands_red": "Garlands Red",
+  "item.christmas_decorations.garlands_blue": "Garlands Blue",
+  "item.christmas_decorations.garlands_yellow": "Garlands Yellow",
+  "item.christmas_decorations.rope_lights": "Rope Lights",
+  "entity.christmas_decorations.gift": "Gift",
+
+  "advancement.christmas_decorations.small_gift.title": "Happy Holidays!",
+  "advancement.christmas_decorations.small_gift.description": "Craft your first Gift."
+}

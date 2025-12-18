@@ -1,0 +1,54 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_copper_nugget": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:copper_nugget"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_glowstone_dust": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:glowstone_dust"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "christmas_decorations:garlands_yellow"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_yellow_dye": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:yellow_dye"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_copper_nugget",
+      "has_yellow_dye",
+      "has_glowstone_dust"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "christmas_decorations:garlands_yellow"
+    ]
+  }
+}

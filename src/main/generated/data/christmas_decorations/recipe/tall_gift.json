@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": "christmas_decorations:small_gift",
+    "X": "minecraft:paper"
+  },
+  "pattern": [
+    "XXX",
+    "XSX",
+    "XXX"
+  ],
+  "result": {
+    "count": 1,
+    "id": "christmas_decorations:tall_gift"
+  }
+}

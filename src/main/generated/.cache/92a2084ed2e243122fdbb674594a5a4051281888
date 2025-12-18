@@ -1,0 +1,7 @@
+// 1.21.10	-999999999-01-01T00:00:00	christmas_decorations/Block Loot Tables
+21e5e6a35f8da2e23c6140ec3398c9d367f4d0bd data/christmas_decorations/loot_table/blocks/big_gift.json
+f361ed2baf647c7e9fcd056148d12b84ecc1af4d data/christmas_decorations/loot_table/blocks/garlands_blue.json
+9903dcb850ebe8bf8889eb8909c5404b3c80039e data/christmas_decorations/loot_table/blocks/garlands_red.json
+4178f6a8f2e82af949faacb8c8af318c8da9244b data/christmas_decorations/loot_table/blocks/garlands_yellow.json
+e6b515bfcd6bb983dd8118e2ca075c263eaefa51 data/christmas_decorations/loot_table/blocks/small_gift.json
+445a9c05cfe2e34fe29ddb80a23289bd13bcd014 data/christmas_decorations/loot_table/blocks/tall_gift.json

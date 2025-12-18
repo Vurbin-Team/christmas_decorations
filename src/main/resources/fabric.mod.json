@@ -1,0 +1,44 @@
+{
+	"schemaVersion": 1,
+	"id": "christmas_decorations",
+	"version": "${version}",
+	"name": "christmas_decorations",
+	"description": "Adds atmospheric Christmas decorations to Minecraft, including garlands, rope lights, and decorative elements for cozy and festive builds. Bringing a warm holiday atmosphere to the game!",
+	"authors": [
+		"Vurbin"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/christmas_decorations/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"christmas_decorations.Christmas_decorations"
+		],
+		"client": [
+			"christmas_decorations.Christmas_decorationsClient"
+		],
+		"fabric-datagen": [
+			"christmas_decorations.Christmas_decorationsDataGenerator"
+		]
+	},
+	"mixins": [
+		"christmas_decorations.mixins.json",
+		{
+			"config": "christmas_decorations.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.18.2",
+		"minecraft": "~1.21.10",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

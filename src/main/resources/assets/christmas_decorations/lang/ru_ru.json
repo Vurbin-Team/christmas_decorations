@@ -1,0 +1,14 @@
+{
+  "itemGroup.christmas_decorations.christmas_decorations": "Новогодние украшения",
+  "item.christmas_decorations.small_gift": "Маленький подарок",
+  "item.christmas_decorations.tall_gift": "Высокий подарок",
+  "item.christmas_decorations.big_gift": "Большой подарок",
+  "item.christmas_decorations.garlands_red": "Красная гирлянда",
+  "item.christmas_decorations.garlands_blue": "Голубая гирлянда",
+  "item.christmas_decorations.garlands_yellow": "Желтая гирлянда",
+  "item.christmas_decorations.rope_lights": "Гирлянда из лампочек",
+  "entity.christmas_decorations.gift": "Подарок",
+
+  "advancement.christmas_decorations.small_gift.title": "Счастливых праздников!",
+  "advancement.christmas_decorations.small_gift.description": "Создайте свой первый подарок."
+}
